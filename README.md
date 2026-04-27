@@ -86,7 +86,8 @@ file:///C:/Users/M5-01/Desktop/1%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C%201.pdf
      
 ### **📁 증빙 자료:**
   * [2차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크) [과제 2.pdf](https://github.com/user-attachments/files/27140084/2.pdf)
-  * [2차과제_실행결과.jpg]
+  * [2차과제_실행결과.jpg] <img width="733" height="230" alt="과제 2 실행결과" src="https://github.com/user-attachments/assets/2618eade-a03f-4f63-bf25-d28c2082c614" />
+
 <br>
 
 ## 🟨 [3차 과제: V3.0] 무한 루프와 메뉴 시스템 (반복문) - 향후 작성 예정
